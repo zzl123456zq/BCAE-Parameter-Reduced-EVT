@@ -1,0 +1,7 @@
+method,parameters_m,training_time_s_per_epoch,inference_latency_ms_per_sample,peak_gpu_memory_mb
+DAGMM,0.1342,0.18,0.0081,21.98
+USAD,0.0853,0.28,0.0036,19.16
+OSSC,0.0721,0.22,0.0048,18.86
+D3R,0.4099,0.46,0.0275,51.12
+GEL,0.2568,0.36,0.0186,34.42
+Proposed,0.0207,0.42,0.0100,23.36
